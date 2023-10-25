@@ -17,6 +17,3 @@ const config: Config = {
   plugins: [],
 }
 export default config
-
-git config --global user.email "abyantahta2002@gmail.com"
-  git config --global user.name "Your Name"
